@@ -132,3 +132,13 @@ dmypy.json
 
 *.parquet
 *.csv
+
+
+.DS_Store
+
+**/artifacts/*
+artifacts/*
+mlflow.db
+
+hw2/output/*
+hw2/mlruns/*
