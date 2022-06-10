@@ -142,3 +142,6 @@ mlflow.db
 
 hw2/output/*
 hw2/mlruns/*
+
+
+*.pkl

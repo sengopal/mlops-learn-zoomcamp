@@ -1,0 +1,4 @@
+To prevent any issues with checkin. All Parquet and CSV data files under this folder are not checked in. The following list of files can be downloaded and placed here for verifying the functionality.
+
+1. fhv_tripdata_2021_01.parquet
+1. fhv_tripdata_2021_02.parquet
